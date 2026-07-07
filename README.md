@@ -118,15 +118,15 @@ ASD Solutions
 **Tech Stack**
 
 `ESP32` `LoRa` `GPS` `IoT`
+<a href="./assets/Ambulance_Project.pdf">
+<img src="https://img.shields.io/badge/View%20PPT-red?style=for-the-badge&logo=microsoftpowerpoint"/>
+</a>
 
 </td>
 
 </tr>
 
 <tr>
-<a href="./assets/Ambulance_Project.pdf">
-<img src="https://img.shields.io/badge/View%20PPT-red?style=for-the-badge&logo=microsoftpowerpoint"/>
-</a>
 
 <td width="50%">
 
