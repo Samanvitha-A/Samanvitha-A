@@ -86,7 +86,6 @@ ASD Solutions
 - AI Projects
 
 ---
----
 
 # 🚀 Featured Projects
 
@@ -164,7 +163,6 @@ ASD Solutions
 </tr>
 </table>
 
----
 ---
 
 # 📂 Other Projects
