@@ -173,3 +173,15 @@ ASD Solutions
 | 📄 Elegant Resume Builder | A responsive resume builder that helps users create professional resumes with a clean and modern interface. | <a href="https://github.com/Samanvitha-A/elegant-resume-build"><img src="https://img.shields.io/badge/View-181717?style=flat-square&logo=github&logoColor=white"></a> |
 
 ---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Samanvitha-A&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samanvitha-A&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
