@@ -59,19 +59,11 @@
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,html,css,javascript,git,github,mysql,vscode,tensorflow"/>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=opencv,linux"/>
-
+  <img src="https://skillicons.dev/icons?i=python,,html,css,javascript,react,nodejs,express,mongodb,mysql,git,github,tensorflow,opencv,matlab,vscode,linux,docker,jupyter&perline=20" />
 </p>
-
----
 
 # 💼 Experience
 
