@@ -51,7 +51,7 @@
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="./assets/resume.pdf">
+<a href="./assets/Samanvitha_Adarasupally_Resume%20I.pdf">
 <img src="https://img.shields.io/badge/Resume-blueviolet?style=for-the-badge&logo=adobeacrobatreader"/>
 </a>
 
