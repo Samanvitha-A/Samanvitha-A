@@ -190,19 +190,13 @@ ASD Solutions
 </p>
 ---
 
-# 🟨 LeetCode Stats
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/samanvithaa?theme=dark&font=Nunito&ext=contest"/>
-
-</div>
-## 🟨 LeetCode Stats
+## 🟨 LeetCode Statistics
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/samanvithaa?theme=dark&font=Nunito&ext=contest"/>
-</p>
 
+<img src="https://leetcard.jacoblin.cool/samanvithaa?theme=dark&font=Nunito&ext=heatmap,contest"/>
+
+</p>
 ---
 
 
