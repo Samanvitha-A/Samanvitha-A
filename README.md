@@ -120,7 +120,7 @@ ASD Solutions
 `ESP32` `LoRa` `GPS` `IoT`
 
 <a href="./assets/Ambulance_Project.pdf.pptx">
-<img src="https://img.shields.io/badge/View%20PPT-red?style=for-the-badge&logo=microsoftpowerpoint"/>
+<img src="https://img.shields.io/badge/View%20PPT-181717?style=for-the-badge&logo=microsoftpowerpoint"/>
 </a>
 
 </td>
