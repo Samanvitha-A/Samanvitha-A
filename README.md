@@ -171,9 +171,7 @@ ASD Solutions
 
 | Project | Description | Link |
 |---------|-------------|------|
-| 📄 Resume Generator | Online resume builder using HTML, CSS & JavaScript | <a href="YOUR_LINK"><img src="https://img.shields.io/badge/View-181717?style=flat-square&logo=github&logoColor=white"></a> |
-| 📚 LeetCode Solutions | Collection of DSA problems solved in C++ | <a href="YOUR_LINK"><img src="https://img.shields.io/badge/View-181717?style=flat-square&logo=github&logoColor=white"></a> |
-| 🤖 AI Mini Projects | Machine Learning and AI experiments | <a href="YOUR_LINK"><img src="https://img.shields.io/badge/View-181717?style=flat-square&logo=github&logoColor=white"></a> |
-| 🌐 Web Development Projects | Frontend and full-stack applications | <a href="YOUR_LINK"><img src="https://img.shields.io/badge/View-181717?style=flat-square&logo=github&logoColor=white"></a> |
+| 📚 LeetCode Solutions | A collection of my LeetCode solutions in C++ covering Arrays, Strings, Trees, Graphs, Dynamic Programming, and more. | <a href="https://github.com/Samanvitha-A/leetcode-solutions"><img src="https://img.shields.io/badge/View-181717?style=flat-square&logo=github&logoColor=white"></a> |
+| 📄 Elegant Resume Builder | A responsive resume builder that helps users create professional resumes with a clean and modern interface. | <a href="https://github.com/Samanvitha-A/elegant-resume-build"><img src="https://img.shields.io/badge/View-181717?style=flat-square&logo=github&logoColor=white"></a> |
 
 ---
