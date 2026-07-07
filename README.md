@@ -99,7 +99,7 @@ ASD Solutions
 
 > Real-time AI-powered communication system that converts sign language into text and speech using Computer Vision.
 
-**Tech Stack**
+**🛠 Tech Stack**
 
 `Python` `OpenCV` `CNN` `MATLAB`
 
@@ -115,7 +115,7 @@ ASD Solutions
 
 > Smart IoT system using ESP32, GPS and LoRa to automatically clear traffic for ambulances.
 
-**Tech Stack**
+**🛠 Tech Stack**
 
 `ESP32` `LoRa` `GPS` `IoT`
 
@@ -135,7 +135,7 @@ ASD Solutions
 
 > Deep learning based face mask detection using OpenCV and TensorFlow.
 
-**Tech Stack**
+**🛠 Tech Stack**
 
 `Python` `OpenCV` `TensorFlow`
 
@@ -151,7 +151,7 @@ ASD Solutions
 
 > Secure VPN communication system for encrypted data transfer over public networks.
 
-**Tech Stack**
+**🛠 Tech Stack**
 
 `Python` `Networking`
 
