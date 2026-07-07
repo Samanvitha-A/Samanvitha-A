@@ -192,3 +192,13 @@ ASD Solutions
 </div>
 
 ---
+
+# 🟨 LeetCode Stats
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/samanvithaa?theme=dark&font=Nunito&ext=contest"/>
+
+</div>
+
+---
