@@ -86,3 +86,79 @@ ASD Solutions
 - AI Projects
 
 ---
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 🤟 Bi-Directional Sign Language Communication
+
+> Real-time AI-powered communication system that converts sign language into text and speech using Computer Vision.
+
+**Tech Stack**
+
+`Python` `OpenCV` `CNN` `MATLAB`
+
+<a href="https://github.com/Samanvitha-A/HackIndia-Spark-6-2025-WEB-CREWS">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+## 🚑 Dynamic Ambulance Traffic Signal Override
+
+> Smart IoT system using ESP32, GPS and LoRa to automatically clear traffic for ambulances.
+
+**Tech Stack**
+
+`ESP32` `LoRa` `GPS` `IoT`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 😷 Face Mask Detection AI
+
+> Deep learning based face mask detection using OpenCV and TensorFlow.
+
+**Tech Stack**
+
+`Python` `OpenCV` `TensorFlow`
+
+<a href="https://github.com/Samanvitha-A/face-mask-detection">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+## 🔒 VPN Tunneling System
+
+> Secure VPN communication system for encrypted data transfer over public networks.
+
+**Tech Stack**
+
+`Python` `Networking`
+
+<a href="https://github.com/Samanvitha-A/VPN-tunneling-">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
