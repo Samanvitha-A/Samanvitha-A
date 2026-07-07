@@ -165,4 +165,15 @@ ASD Solutions
 </table>
 
 ---
+---
 
+# 📂 Other Projects
+
+| Project | Description | Link |
+|---------|-------------|------|
+| 📄 Resume Generator | Online resume builder using HTML, CSS & JavaScript | <a href="YOUR_LINK"><img src="https://img.shields.io/badge/View-181717?style=flat-square&logo=github&logoColor=white"></a> |
+| 📚 LeetCode Solutions | Collection of DSA problems solved in C++ | <a href="YOUR_LINK"><img src="https://img.shields.io/badge/View-181717?style=flat-square&logo=github&logoColor=white"></a> |
+| 🤖 AI Mini Projects | Machine Learning and AI experiments | <a href="YOUR_LINK"><img src="https://img.shields.io/badge/View-181717?style=flat-square&logo=github&logoColor=white"></a> |
+| 🌐 Web Development Projects | Frontend and full-stack applications | <a href="YOUR_LINK"><img src="https://img.shields.io/badge/View-181717?style=flat-square&logo=github&logoColor=white"></a> |
+
+---
