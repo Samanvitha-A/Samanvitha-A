@@ -183,14 +183,11 @@ ASD Solutions
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Samanvitha-A&theme=tokyonight&hide_border=true"/>
-
-</div>
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Samanvitha-A&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 ---
 
 # 🟨 LeetCode Stats
